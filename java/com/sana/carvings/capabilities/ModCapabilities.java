@@ -17,6 +17,8 @@ public class ModCapabilities
 
         public void remove(ResourceLocation rl);
 
+        public void set(Set<ResourceLocation> rl);
+
         public Set<ResourceLocation> getSymbols();
     }
 
