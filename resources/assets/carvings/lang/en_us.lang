@@ -1,0 +1,43 @@
+itemGroup.carvings=Carvings
+
+tooltip.carvings.emptyCarving.desc=Used to trace carvings found in the world.
+
+# Blocks
+tile.sulfur_rock.name=Sulfur Rich Rock
+
+tile.carving_galactic_a.name=Unknown Carving (A)
+tile.carving_galactic_b.name=Unknown Carving (B)
+tile.carving_galactic_c.name=Unknown Carving (C)
+tile.carving_galactic_d.name=Unknown Carving (D)
+tile.carving_galactic_e.name=Unknown Carving (E)
+tile.carving_galactic_f.name=Unknown Carving (F)
+tile.carving_galactic_g.name=Unknown Carving (G)
+tile.carving_galactic_h.name=Unknown Carving (H)
+tile.carving_galactic_i.name=Unknown Carving (I)
+tile.carving_galactic_j.name=Unknown Carving (J)
+tile.carving_galactic_k.name=Unknown Carving (K)
+tile.carving_galactic_l.name=Unknown Carving (L)
+tile.carving_galactic_m.name=Unknown Carving (M)
+tile.carving_galactic_n.name=Unknown Carving (N)
+tile.carving_galactic_o.name=Unknown Carving (O)
+tile.carving_galactic_p.name=Unknown Carving (P)
+tile.carving_galactic_q.name=Unknown Carving (Q)
+tile.carving_galactic_r.name=Unknown Carving (R)
+tile.carving_galactic_s.name=Unknown Carving (S)
+tile.carving_galactic_t.name=Unknown Carving (T)
+tile.carving_galactic_u.name=Unknown Carving (U)
+tile.carving_galactic_v.name=Unknown Carving (V)
+tile.carving_galactic_w.name=Unknown Carving (W)
+tile.carving_galactic_x.name=Unknown Carving (X)
+tile.carving_galactic_y.name=Unknown Carving (Y)
+tile.carving_galactic_z.name=Unknown Carving (Z)
+
+# Items
+item.journal.name=Carvings Journal
+item.sulfur.name=Sulfur
+item.bucket_acid.name=Bucket of Sulfuric Acid
+item.tracing_paper.name=Tracing Paper
+item.tracing_paper_used.name=Tracing Paper with Symbol
+
+# GUI
+gui.carvings.scripts=Scripts

@@ -1,0 +1,10 @@
+{
+  "pencil_trace": {
+    "category": "player",
+    "sounds": [ "carvings:pencil_trace" ]
+  },
+  "book_page": {
+    "category": "player",
+    "sounds": [ "carvings:book_page" ]
+  }
+}

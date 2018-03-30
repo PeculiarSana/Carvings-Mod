@@ -1,0 +1,10 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "facing=north": { "model": "carvings:carving_galactic_i"},
+    "facing=east": { "model": "carvings:carving_galactic_i", "y": 90},
+    "facing=south": { "model": "carvings:carving_galactic_i", "y": 180},
+    "facing=west": { "model": "carvings:carving_galactic_i", "y": 270},
+    "inventory" : {"model": "carvings:carving_galactic_i"}
+  }
+}

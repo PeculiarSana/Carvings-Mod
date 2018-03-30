@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  C",
+    " S ",
+    "S  "
+  ],
+  "key":
+  {
+    "C": [{"item": "minecraft:coal", "data": 0}, {"item": "minecraft:coal", "data": 1}],
+    "S": {"item": "minecraft:stick"}
+  },
+  "result":
+  {
+    "item": "carvings:tracing_pencil"
+  }
+}

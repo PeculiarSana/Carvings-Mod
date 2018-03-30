@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "carvings:items/tracing_pencil"
+  }
+}

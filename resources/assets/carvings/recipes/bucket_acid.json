@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:water_bucket"},
+    {"item": "carvings:sulfur"},
+    {"item": "carvings:sulfur"},
+    {"item": "carvings:sulfur"}
+
+  ],
+  "result": {
+    "item": "carvings:bucket_acid"
+  }
+}

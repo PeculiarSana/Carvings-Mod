@@ -1,0 +1,15 @@
+[
+{
+  "modid": "Carvings",
+  "name": "Carvings Mod",
+  "description": "Discover ancient scriptures that lead to mysteries and adventure!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sana"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
